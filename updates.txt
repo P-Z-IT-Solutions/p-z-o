@@ -1,9 +1,9 @@
-[+] Added safety notification warning
+[+] Addressed minor bugs
 
-[+] Safemode now behaves more strictly
+[+] Updated for latest cheat version
 
-[=] Rearranged menu elements
+[=] Adjustments to Safe Mode
 
-[=] Various fixes across Lua
+[=] Updated Magnet Triggerbot
 
-17.10.2024
+30.05.2025
