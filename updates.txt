@@ -1,9 +1,5 @@
-[+] Addressed minor bugs
+[+] Fixed minor bugs
 
-[+] Updated for latest cheat version
+[+] Initial V6 release
 
-[=] Adjustments to Safe Mode
-
-[=] Updated Magnet Triggerbot
-
-30.05.2025
+31.10.2025
