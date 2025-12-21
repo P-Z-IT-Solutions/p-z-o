@@ -1,6 +1,9 @@
 [+] Added doorspam
+
 [+] Fixed force baim / awall toggle
+
 [+] Added force baim on trigger
-[+] Added weapon groups to magnet trigger
+
+[+] Added magnet trigger settings
 
 21.12.2025
