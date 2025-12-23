@@ -1,9 +1,9 @@
-[+] Added doorspam
+[+] Redesigned Menu / Buttons
 
-[+] Fixed force baim / awall toggle
+[+] Minor bug fixes
 
-[+] Added force baim on trigger
+[+] Crash fixes
 
 [+] Added magnet trigger settings
 
-21.12.2025
+23.12.2025
