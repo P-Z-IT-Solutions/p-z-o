@@ -1,9 +1,9 @@
-[+] Redesigned Menu / Buttons
+[+] VAC Live Rage Bypass
 
-[+] Minor bug fixes
+[+] Manual AA
 
-[+] Crash fixes
+[+] Various Legitbot Checks
 
-[+] Added magnet trigger settings
+[+] Full changelog in discord
 
-23.12.2025
+08.02.2026
