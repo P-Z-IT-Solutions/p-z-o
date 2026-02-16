@@ -1,9 +1,9 @@
-[+] VAC Live Rage Bypass
+[+] Added Teamname To Dmg List
 
-[+] Manual AA
+[+] Improved VAC Live bypass
 
-[+] Various Legitbot Checks
+[+] Improved Aimbot after X Shots
 
-[+] Full changelog in discord
+[+] Fixed bug in Magnet Trigger
 
-08.02.2026
+16.02.2026
