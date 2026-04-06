@@ -1,9 +1,9 @@
-[+] Added Teamname To Dmg List
+[+] Added Suppress breathing Anim
 
-[+] Improved VAC Live bypass
+[+] Team Damage List fixes
 
-[+] Improved Aimbot after X Shots
+[+] Fixed other minor bugs
 
-[+] Fixed bug in Magnet Trigger
+[-] VAC bypass disabled, use semirage cfg
 
-16.02.2026
+06.04.2026
