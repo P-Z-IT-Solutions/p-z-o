@@ -1,9 +1,9 @@
-[+] Added Suppress breathing Anim
+[+] Added Sound ESP (Sonar / Skeleton)
 
-[+] Team Damage List fixes
+[+] Various Performance Improvements
 
-[+] Fixed other minor bugs
+[=] Fixed Force Baim
 
-[-] VAC bypass disabled, use semirage cfg
+[=] More Custom Scope customization
 
-06.04.2026
+09.05.2026
