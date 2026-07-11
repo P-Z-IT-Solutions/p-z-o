@@ -1,9 +1,9 @@
-[+] Added Sound ESP (Sonar / Skeleton)
+[+] Added Playerlist
 
-[+] Various Performance Improvements
+[+] Added Whitelist (Ragebot Priority)
 
-[=] Fixed Force Baim
+[+] Added Delay Shot
 
-[=] More Custom Scope customization
+[=] Fixed Various Bugs
 
-09.05.2026
+11.07.2026
