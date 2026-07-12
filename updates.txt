@@ -1,9 +1,5 @@
-[+] Added Playerlist
-
-[+] Added Whitelist (Ragebot Priority)
-
-[+] Added Delay Shot
+[+] Added Auto Disconnect
 
 [=] Fixed Various Bugs
 
-11.07.2026
+12.07.2026
