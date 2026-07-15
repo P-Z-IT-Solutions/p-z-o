@@ -1,5 +1,9 @@
+[+] Added Playerlist
+
+[+] Added Triggerbot Min Dmg Override
+
 [+] Added Auto Disconnect
 
 [=] Fixed Various Bugs
 
-12.07.2026
+15.07.2026
